@@ -10,6 +10,7 @@ This project aims to design and implement a comprehensive system to manage and o
 - User Interface with Data Analytics
 
 ## Project Charter:
+CSC3020X00_Project Charter Outline.docx
 
 ## Timeline and Milestones:
 - **Milestone 1: Project Initiation and Requirements Analysis** - Sep 15, 2024
