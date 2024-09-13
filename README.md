@@ -10,7 +10,7 @@ This project aims to design and implement a comprehensive system to manage and o
 - User Interface with Data Analytics
 
 ## Project Charter:
-https://github.com/Jkiboz/Sustainable-Urban-Transportation-Management-System/blob/main/CSC3020X00_Project%20Charter%20Outline.docx
+CSC3020X00_Project%20Charter%20Outline.docx
 
 
 ## Timeline and Milestones:
