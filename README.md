@@ -10,8 +10,7 @@ This project aims to design and implement a comprehensive system to manage and o
 - User Interface with Data Analytics
 
 ## Project Charter:
-CSC3020X00_Project%20Charter%20Outline.docx
-
+https://github.com/Jkiboz/Sustainable-Urban-Transportation-Management-System/blob/main/CSC3020X00_Project%20Charter%20Outline.docx
 
 ## Timeline and Milestones:
 - **Milestone 1: Project Initiation and Requirements Analysis** - Sep 15, 2024
