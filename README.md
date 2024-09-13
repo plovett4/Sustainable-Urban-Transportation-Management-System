@@ -1,5 +1,3 @@
-# Sustainable-Urban-Transportation-Management-System# Sustainable Urban Transportation Management System
-
 ## Project Overview
 This project aims to design and implement a comprehensive system to manage and optimize urban transportation, focusing on sustainability, efficiency, and user experience.
 
