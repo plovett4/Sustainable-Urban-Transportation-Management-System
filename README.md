@@ -9,8 +9,7 @@ This project aims to design and implement a comprehensive system to manage and o
 - Environmental Impact Tracking
 - User Interface with Data Analytics
 
-## Project Charter:
-CSC3020X00_Project Charter Outline.docx
+## Project Charter: This file can found above this README directory.
 
 ## Timeline and Milestones:
 - **Milestone 1: Project Initiation and Requirements Analysis** - Sep 15, 2024
