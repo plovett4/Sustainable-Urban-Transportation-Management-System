@@ -18,7 +18,7 @@ This project aims to design and implement a comprehensive system to manage and o
 
 ## Team Members:
 - **Parke Lovett** - Project Leader, Software Requirments Operator, and Analytical Reporter
-- **Daniel Wilson** - Case Diargram Designer and Analytical Reporter
+- **Daniel Wilson** - Case Diagram Designer and Analytical Reporter
 - **John Kibozi** - Project Charter and Analytical Reporter
 
 ## How to Run the Project
