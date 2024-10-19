@@ -17,7 +17,7 @@ app.config['SECRET_KEY'] = secret_key
 # Change following info based on local DB for right now, until web-based DB is implemented
 app.config['MYSQL_HOST'] = 'localhost'
 app.config['MYSQL_USER'] = '0x45'
-app.config['MYSQL_PASSWORD'] = 'Ka1iB1tch!!!69421mysql'
+app.config['MYSQL_PASSWORD'] = ''
 app.config['MYSQL_DB'] = 'TrafficBoss_Login'
  
 
