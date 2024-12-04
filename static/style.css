@@ -6,7 +6,8 @@
 }
 
 body {
-    background-color: #283739;
+    background-color: cyan !important;
+    text-align: center;
 }
 
 .border {
@@ -14,7 +15,7 @@ body {
     width: 400px;
     height: 450px;
     border: 5px solid #a2c11c;
-    border-radius: 0px;
+    border-radius: 10px;
     background-color: #2c5d63;
 }
 
@@ -24,7 +25,7 @@ body {
     color: #e0e0e0;
     font-style: normal;
     font-weight: bold;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .textbox {
@@ -45,10 +46,38 @@ body {
     font-style: normal;
     font-weight: bold;
     background-color: lightgray;
+    border-radius: 15px;
+    height: 40px;
+    width: 170px;
 }
 
 .bottom {
     color: #a2c11c;
     font-style: oblique;
     font-weight: bold;
+}
+
+.color-code-section {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-top: 1px solid #ccc;
+}
+
+.color-code {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.color-code span {
+    display: inline-block;
+    width: 25%;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
 }
