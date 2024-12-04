@@ -23,5 +23,5 @@ This project aims to design and implement a comprehensive system to manage and o
 ## How to Run the Project
 First, run the 'TB_login' SQL script inside your MySQL Workbench instance, then go into the 'app.py' file
 and add your corresponding SQL user and password. The final step is to add your own free TomTom API key to
-the 'var apiKey' on the first line inside the very first <script> tags. From there you can run the application
-on your localhost, port 5000
+the 'var apiKey' on the first line inside the very first <script> tags of the index.html file. From there
+you can run the application on your localhost, port 5000
