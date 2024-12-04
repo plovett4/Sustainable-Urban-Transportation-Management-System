@@ -14,7 +14,7 @@ salty_splatoon = secrets.token_hex(16) # Generates 16-byte random salt
 secret_key = secrets.token_hex(16)
 app.config['SECRET_KEY'] = secret_key
 
-# Change following info based on local DB for right now, until web-based DB is implemented
+# Enter following info based on local DB
 app.config['MYSQL_HOST'] = 'localhost'
 app.config['MYSQL_USER'] = ''
 app.config['MYSQL_PASSWORD'] = ''
