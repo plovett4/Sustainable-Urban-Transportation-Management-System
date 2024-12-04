@@ -16,9 +16,9 @@ app.config['SECRET_KEY'] = secret_key
 
 # Change following info based on local DB for right now, until web-based DB is implemented
 app.config['MYSQL_HOST'] = 'localhost'
-app.config['MYSQL_USER'] = '0x45'
+app.config['MYSQL_USER'] = ''
 app.config['MYSQL_PASSWORD'] = ''
-app.config['MYSQL_DB'] = 'TrafficBoss_Login'
+app.config['MYSQL_DB'] = ''
  
 
 mysql = MySQL(app)
@@ -45,7 +45,7 @@ def login():
                 session['loggedin'] = True
                 session['id'] = user_to_check['id']
                 session['username'] = user_to_check['username']
-                msg = 'Logged in successfully !'
+                msg = 'Welcome back, ' + session['username'] + '!'
                 return render_template('index.html', msg = msg)
             else:
                 msg = 'Incorrect username / password !'
