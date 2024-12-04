@@ -18,7 +18,7 @@ app.config['SECRET_KEY'] = secret_key
 app.config['MYSQL_HOST'] = 'localhost'
 app.config['MYSQL_USER'] = ''
 app.config['MYSQL_PASSWORD'] = ''
-app.config['MYSQL_DB'] = ''
+app.config['MYSQL_DB'] = 'TrafficBoss_Login'
  
 
 mysql = MySQL(app)
