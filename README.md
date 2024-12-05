@@ -8,7 +8,7 @@ This project aims to design and implement a comprehensive system to manage and o
 - User Interface with Data Analytics
 - Utilizes free TomTom API and map-based SDKs for web
 
-## Project Charter: This file can found above this README directory.
+## Project Charter: This file can be found above this README directory.
 
 ## Timeline and Milestones:
 - **Milestone 1: Project Initiation and Requirements Analysis** - Sep 15, 2024
